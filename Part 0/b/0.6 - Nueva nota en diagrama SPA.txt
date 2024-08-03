@@ -1,5 +1,0 @@
-El usuario escribe y le da click al boton save
-Se envian los datos a traves del metodo POST
-Navegador solicita al servidor POST https://studies.cs.helsinki.fi/exampleapp/data.json
-Se guardan los datos enviados
-El navegador muestra al usuario el resultado
